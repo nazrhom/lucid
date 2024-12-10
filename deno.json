@@ -10,5 +10,5 @@
     "include": ["src/"],
     "exclude": ["src/core/"]
   },
-  "nodeModulesDir": "none"
+  "nodeModulesDir": false
 }
